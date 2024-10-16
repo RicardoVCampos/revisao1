@@ -43,6 +43,7 @@ body {
     width: 25vw;
     height: 5vh;
     padding-bottom: 1vh;
+    outline-color: green;
 }
 
 .box1 h1{
