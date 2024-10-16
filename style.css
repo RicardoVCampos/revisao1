@@ -55,12 +55,12 @@ body {
     
 }
 
-p {
+.box2 p {
     color:#5f5d5d;
     font-size: 12px;
 }
 
-a {
+.box3 a {
     text-decoration: none;
     color: #5f5d5d;
     font-size: 13px;
