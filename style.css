@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: #bcb8b8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container {
+    background-color: white;
+    width: 35vw;
+    height: 65vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box1 {
+    margin-bottom: 2vh;
+
+}
+
+.box1 label {
+    display: block;
+    color: #5f5d5d;
+    font-size: 12px;
+    display: block;
+}
+
+#label1 {
+    margin-bottom: 4vh;
+}
+
+.box1 input {
+    width: 25vw;
+    height: 5vh;
+    padding-bottom: 1vh;
+}
+
+.box1 h1{
+    color: #5f5d5d;
+    justify-content: center;
+    display: flex;
+    margin-top: -3vh;
+    margin-left: -14vw;
+    margin-bottom: 5vh;
+    
+}
+
+p {
+    color:#5f5d5d;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+    color: #5f5d5d;
+    font-size: 13px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 7vh;
+    width: 7vw;
+    height: 6vh;
+    border-radius: 18px
+}
+
+.box2 {
+    display: flex;  
+    gap: 4px;      
+}
+
+.box3 {
+    display: flex;
+    margin-left: 40vh;
+    margin-top: -3vh;
+}
+
+#loq {
+    margin-left: 5vw;
+}
+
